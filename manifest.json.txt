@@ -1,0 +1,12 @@
+{
+  "latest": {
+    "release": "1.0.0"
+  },
+  "versions": [
+    {
+      "id": "1.0.0",
+      "type": "release",
+      "url": "https://raw.githubusercontent.com/ilaaltufev75-debug/minecraft-classic-launcher/main/versions/1.0.0/version.json"
+    }
+  ]
+}

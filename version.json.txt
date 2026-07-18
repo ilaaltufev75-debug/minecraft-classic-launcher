@@ -1,0 +1,11 @@
+{
+  id 1.0.0,
+  type release,
+  releaseTime 2026-07-18T120000Z,
+  downloads {
+    game {
+      url httpsgithub.comilaaltufev75-debugminecraft-classic-launcherreleasesdownloadtestgame.zip,
+      size 0
+    }
+  }
+}
