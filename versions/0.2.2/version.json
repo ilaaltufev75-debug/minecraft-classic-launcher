@@ -1,0 +1,12 @@
+{
+  "id": "0.2.2",
+  "type": "snapshot",
+  "releaseTime": "2026-07-19T12:00:00Z",
+  "downloads": {
+    "game": {
+      "url": "https://github.com/ilaaltufev75-debug/minecraft-classic-launcher/releases/download/0.2.2/game.zip",
+      "size": 35000000,
+      "sha1": "fbcc6ff2207fef7a4666ca5b29626f3e6e936a94"
+    }
+  }
+}
