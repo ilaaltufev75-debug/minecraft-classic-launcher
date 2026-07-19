@@ -4,11 +4,6 @@
   },
   "versions": [
     {
-      "id": "0.0.67",
-      "type": "snapshot",
-      "url": "https://raw.githubusercontent.com/ilaaltufev75-debug/minecraft-classic-launcher/main/versions/1.0.1/version.json"
-    },
-    {
       "id": "0.2.2",
       "type": "snapshot",
       "url": "https://raw.githubusercontent.com/ilaaltufev75-debug/minecraft-classic-launcher/main/versions/0.2.2/version.json"
