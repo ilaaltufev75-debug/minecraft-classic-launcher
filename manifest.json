@@ -1,6 +1,6 @@
 {
   "latest": {
-    "release": "0.2.2"
+    "release": "0.2.3"
   },
   "versions": [
     {
@@ -9,7 +9,7 @@
       "url": "https://raw.githubusercontent.com/ilaaltufev75-debug/minecraft-classic-launcher/main/versions/1.0.1/version.json"
     },
     {
-      "id": "0.2.2",
+      "id": "0.2.3",
       "type": "snapshot",
       "url": "https://raw.githubusercontent.com/ilaaltufev75-debug/minecraft-classic-launcher/main/versions/0.2.2/version.json"
     }
